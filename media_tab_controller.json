@@ -1,0 +1,7 @@
+{
+  "name": "media_tab_controller",
+  "description": "Controla pestañas con medios desde la terminal",
+  "path": "/home/jairnarv/zen-extension/zen-media-toggle/native_host.py",
+  "type": "stdio",
+  "allowed_extensions": ["a1dee253193adf1f7e3ecb47ae653133d21fd89f@temporary-addon"]
+}
